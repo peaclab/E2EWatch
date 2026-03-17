@@ -11,7 +11,7 @@ docutils==0.16
 entrypoints==0.3
 fast-features @ file:///usr3/graduate/baksar/projectx/ADF-Deployment/fast_features/dist/fast_features-0.1.0-cp36-cp36m-linux_x86_64.whl
 h5py==2.10.0
-idna==2.10
+idna==3.7
 imagesize==1.2.0
 importlib-metadata==1.6.0
 ipykernel==5.2.1
