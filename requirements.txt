@@ -31,7 +31,7 @@ Markdown==3.2.2
 MarkupSafe==1.1.1
 matplotlib==3.2.1
 mistune==3.3.3
-nbconvert==7.17.0
+nbconvert==7.17.2
 nbformat==5.0.6
 numpy==1.22.0
 packaging==20.3
